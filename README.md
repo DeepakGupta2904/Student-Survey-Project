@@ -12,7 +12,7 @@ Problem Statement:- In United States, there are many stores in which a survey wa
 
 In this project, I am done some project like:-
 
-1. Tabular Visualization - Format the total amount of purchase (TAP) based on ‘Store location’ and ‘Store setting’: -
+1. Tabular Visualization - Format the total amount of purchase (TAP) based on ‘Store location’ and ‘Store setting’:-
 
 A. If 0<TAP<35000, then records should be in red color
 
@@ -20,7 +20,8 @@ B. If 35000<=TAP<60000, then records should be in yellow color
 
 C. If TAP>=60000, then records should be in Blue color
 
-2 Matrix Visualization – Create Matrix Visualization to show the amount spent on Outdoor sports across different ages and ‘Store setting’. Do the color formatting for the amount spent in total outdoor sports.
+2 Matrix Visualization – Create Matrix Visualization to show the amount spent on Outdoor sports across different ages and ‘Store setting’. Do the color formatting for the 
+  amount spent in total outdoor sports.
 
 3. Funnel chart – Create a Funnel chart to show Total amount of purchase by ‘Store setting’. Show the data labels as Percentage of First.
 
