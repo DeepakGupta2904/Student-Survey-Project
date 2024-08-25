@@ -10,7 +10,7 @@ A. Created a tabular visualization to display the Total Amount of Purchase (TAP)
 
 B. Applied conditional formatting:-
 
-a. Red for TAP between 0 and 35,000    b. Yellow for TAP between 35,000 and 60,000    c. Blue for TAP above 60,000
+a. Red for TAP between 0 and 35,000   b. Yellow for TAP between 35,000 and 60,000   c. Blue for TAP above 60,000
 
 2. Matrix Visualization:-
 
